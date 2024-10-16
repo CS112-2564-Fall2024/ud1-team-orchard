@@ -58,16 +58,19 @@
         <mxCell id="3Tjo4TDcefxPTW5wcUnV-3" value="INNER CLASS&lt;br&gt;Welcome to Schedule&lt;br&gt;1. Add Homework Assignment&lt;br&gt;2. Add Personal Task&lt;br&gt;3. List All Tasks&lt;br&gt;&lt;div&gt;4. Complete Task&lt;br&gt;5. List Completed Tasks&lt;br&gt;&lt;/div&gt;&lt;div&gt;6. Exit&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="481" y="510" width="270" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="cpjbCnv-2fEbS8bq28RI-1" value="InvalidDateException" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="cpjbCnv-2fEbS8bq28RI-1" value="InvalidDateException" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="440" y="120" width="160" height="138" as="geometry">
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cpjbCnv-2fEbS8bq28RI-4" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="cpjbCnv-2fEbS8bq28RI-1">
+        <mxCell id="cpjbCnv-2fEbS8bq28RI-4" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="cpjbCnv-2fEbS8bq28RI-1" vertex="1">
           <mxGeometry y="26" width="160" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="cpjbCnv-2fEbS8bq28RI-8" value="+ InvalidDateException()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="cpjbCnv-2fEbS8bq28RI-1">
+        <mxCell id="cpjbCnv-2fEbS8bq28RI-8" value="+ InvalidDateException()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="cpjbCnv-2fEbS8bq28RI-1" vertex="1">
           <mxGeometry y="34" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GxEfGS5dkqcuFcCcnPE--0" value="Will Display (GUI)&lt;br&gt;1. Add Homework Assignment&lt;br&gt;2. Add Personal Task&lt;br&gt;3. List All Tasks&lt;br&gt;&lt;div&gt;4. Complete Task&lt;br&gt;5. List Completed Tasks&lt;br&gt;&lt;/div&gt;&lt;div&gt;6. Exit&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="120" y="520" width="170" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
